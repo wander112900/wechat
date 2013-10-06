@@ -5,7 +5,8 @@ PHP版微信公共平台消息主动推送10月6日最新实现
 
 
 使用方法：
- $arr = array(
+
+$arr = array(
 	'account' => '公众平台帐号',
 	'password' => '密码'
 );
